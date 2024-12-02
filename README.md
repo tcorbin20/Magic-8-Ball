@@ -1,1 +1,1 @@
-This is code fora magic 8 Ball
+This is code for a magic 8 Ball
